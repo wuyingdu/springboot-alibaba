@@ -29,6 +29,7 @@
         <module>spring-boot-double-consumer</module>
         <module>spring-boot-double-provider</module>
         <module>spring-cloud-alibaba-nacos</module>
+        <module>spring-cloud-alibaba-nacos-config</module>
     </modules>
 
     <dependencyManagement>
