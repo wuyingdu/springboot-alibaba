@@ -12,6 +12,6 @@
 ## 模块介绍
  1. springboot-alibaba 父模块，版本控制
  2. spring-boot-double-base 公共模块，存放Bean和工具类
- 3. spring-boot-double-consumer 使用nacos做服务发现，使用double进行服务调用，服务消费者 （非springCloud版本）
- 4. spring-boot-double-provider 使用nacos做服务发现，使用double进行服务调用，服务提供者 （非springCloud版本）
+ 3. spring-boot-double-consumer springBoot + nacos + double，服务消费者 （非springCloudAlibaba版本）
+ 4. spring-boot-double-provider springBoot + nacos + double，，服务提供者 （非springCloudAlibaba版本）
  5. spring-cloud-alibaba-nacos nacos做服务发现，测试注册中心和负载均衡

@@ -1,1 +1,0 @@
-# 使用nacos做服务发现，使用double进行服务调用，服务提供者 （非springCloud版本）

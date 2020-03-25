@@ -5,13 +5,11 @@ import cn.wyd.base.entity.User;
 import cn.wyd.base.service.UserService;
 import org.apache.dubbo.config.annotation.Reference;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
 @RestController
-@RequestMapping("user")
 public class UserController {
 
     @Reference
